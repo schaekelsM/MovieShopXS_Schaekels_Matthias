@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MovieShopXS.Models.Movie>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                <img src="~/images/@(item.Title).jpg"/>
+                <h1>@item.Title</h1>
+                <h2>(@item.Year)</h2>
+                <p>@item.Description</p>
+                <h3>The Director</h3>
+                @foreach (MovieShopXS.Models.Person per in ViewBag.Directors) {
+                    if (per.PersonID == item.DirectorID) { 
+                        <p>@per.FirstName  @per.LastName</p>
+                    }
+                }
+        </li>
+        }
+    </ul>
+
+
+</div>

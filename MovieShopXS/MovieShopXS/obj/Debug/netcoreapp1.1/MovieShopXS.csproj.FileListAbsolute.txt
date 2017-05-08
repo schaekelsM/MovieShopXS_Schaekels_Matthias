@@ -1,0 +1,9 @@
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\bin\Debug\netcoreapp1.1\MovieShopXS.deps.json
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\bin\Debug\netcoreapp1.1\MovieShopXS.runtimeconfig.json
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\bin\Debug\netcoreapp1.1\MovieShopXS.runtimeconfig.dev.json
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\bin\Debug\netcoreapp1.1\MovieShopXS.dll
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\obj\Debug\netcoreapp1.1\MovieShopXS.csprojResolveAssemblyReference.cache
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\obj\Debug\netcoreapp1.1\MovieShopXS.AssemblyInfo.cs
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\bin\Debug\netcoreapp1.1\MovieShopXS.pdb
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\obj\Debug\netcoreapp1.1\MovieShopXS.dll
+c:\users\matth\Documents\Visual Studio 2017\Projects\MovieShopXS\MovieShopXS\obj\Debug\netcoreapp1.1\MovieShopXS.pdb

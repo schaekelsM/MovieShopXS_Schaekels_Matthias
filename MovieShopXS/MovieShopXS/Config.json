@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionString": "Server=DESKTOP-HDABSLR\\SQLEXPRESS;Database=MovieBase;Trusted_Connection=true;MultipleActiveResultSets=true;"
+}
